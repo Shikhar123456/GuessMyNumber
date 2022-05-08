@@ -1,4 +1,3 @@
-'use strict';
 let origNumber = Math.trunc(20 * Math.random()) + 1;
 // document.querySelector('.number').textContent = origNumber;
 console.log(document.querySelector('.number').textContent);
